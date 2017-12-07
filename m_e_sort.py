@@ -1,4 +1,4 @@
-#!./venv/bin/python3
+#!/usr/bin/env python3
 
 import sys # handle stdin
 import csv # read csv with csv.reader ( stdin )
